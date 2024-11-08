@@ -10,9 +10,9 @@ const Founders = () => {
     <section className="p-8 md:p-16 bg-gray-50 text-center">
       <h2 className="text-2xl font-bold text-gray-800">Meet the Founders</h2>
       <div className="mt-8 grid grid-cols-1 md:grid-cols-3 gap-8">
-        <FounderCard name="Alice Doe" image="/path/to/image1.jpg" />
-        <FounderCard name="Bob Smith" image="/path/to/image2.jpg" />
-        <FounderCard name="Jane Roe" image="/path/to/image3.jpg" />
+        <FounderCard name="Gregory Opondi" image="/avatar.jpeg" />
+        <FounderCard name="Daisy Kirui" image="/avatar.jpeg" />
+        <FounderCard name="James Achesa" image="/avatar.jpeg" />
       </div>
     </section>
   );

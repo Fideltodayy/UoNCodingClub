@@ -11,7 +11,7 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className="font-sans">
+    <div className="font-sans text-black">
       <Hero />
       <About />
       <Gallery />
@@ -19,7 +19,7 @@ function App() {
       <Activities />
       {/* <UpcomingActivities /> */}
       <Founders />
-      <Partners />
+      {/* <Partners /> */}
       <Contact />
       <Footer />
     </div>
